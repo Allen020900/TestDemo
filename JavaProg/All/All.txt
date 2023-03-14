@@ -1,0 +1,6 @@
+package All; 
+import java.util.*; 
+public class Tempo 
+ { 
+   int a=10; 
+ }
